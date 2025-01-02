@@ -1,0 +1,23 @@
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 0 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 1 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 2 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 3 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 4 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 0 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 1 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 2 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 3 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 4 --poolsize 40  --agent_num 8 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 0 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 1 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 2 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 3 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/OpenAI_llm --out_folder output_data_fig1 --seedindex 4 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 0 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 1 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 2 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 3 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
+python main.py --in_folder input_data/Google_llm --out_folder output_data_fig1 --seedindex 4 --poolsize 40  --agent_num 12 --user_id 0  --horizons 100000 --user_num 1 --algorithms "MACO"
