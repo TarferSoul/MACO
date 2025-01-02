@@ -2,7 +2,7 @@
 Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification
 <br>   <br>
 <div align="center">
-  <img src="pic/design.jpg" alt="Logo" width="750">
+  <img src="pic/design (1).jpg" alt="Logo" width="750">
 </div>
 
 # File Structure
