@@ -1,4 +1,4 @@
-<h1 align="center"> MACO: Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification
+<h1 align="center"> MACO
 </h1>
 <div align="center">
   <img src="pic/design (1).jpg" alt="Logo" width="750">
