@@ -99,3 +99,15 @@ bash scripts/run_syn_diff_agents.sh
 ```bash
 bash scripts/run_syn_comp_diff_agents.sh
 ```
+
+# Citation
+
+If you find this work helpful to your research, please kindly consider citing our paper.
+```
+@article{dai2025multi,
+  title={Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification},
+  author={Dai, Xiangxiang and Xie, Yuejin and Liu, Maoli and Wang, Xuchuang and Li, Zhuohua and Wang, Huanyu and Lui, John},
+  journal={arXiv preprint arXiv:2501.01849},
+  year={2025}
+}
+```
